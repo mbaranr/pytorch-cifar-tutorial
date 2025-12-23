@@ -12,7 +12,7 @@ Each topic is split into:
 
 ## Entry Point
 
-`tutorial.md` links to each module in the intended order and explains how the pieces fit together.
+[`tutorial.md`](tutorial.md) links to each module in the intended order and explains how the pieces fit together.
 
 ## Who This Is For
 
