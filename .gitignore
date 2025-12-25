@@ -1,3 +1,4 @@
 *.pyc
 __pycache__/
-datapipes/data/
+cifar10/
+.DS_Store
