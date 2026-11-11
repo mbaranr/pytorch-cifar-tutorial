@@ -12,7 +12,7 @@ Each topic is split into:
 
 [`tutorial.md`](tutorial.md) links to each module in the intended order and explains how the pieces fit together.
 
-## Who This Is For
+## Who this is for
 
 This tutorial is made for:
 - students learning practical deep learning
